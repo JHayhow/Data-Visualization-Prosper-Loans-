@@ -33,8 +33,6 @@ The dataset was also sourced from Udacity.
 
 ## Key Insights for Presentation
 
-> Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
-
 > Key Insight 1: There is very little correlation between Prosper Loan Rating, credit score, total fee per loan paid by investors, and the effective yield per loan. This is surprising as Prosper Rating is the rating the company actually gives each loan.
 
 > Key Insight 2: The standard deviation of effective yield correlates negatively and strongly with both Prosper Rating and credit score.
